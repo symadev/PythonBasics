@@ -8,8 +8,8 @@ b=3
 sum = a+b
 print (sum)
 
-# arithmeic operators
-a= 2
+#arithmeic operators
+a=2
 b=3
 
 print (a+b)
