@@ -33,4 +33,12 @@ else:
 
 print ("all the students marks is -->", grade)
 
+marks2 = 80
+if(marks >=80):
+    grade= "A"
+elif (marks <= 70):
+    grade = "B"
+else: grade="D"
+print ("all passed student marks is", grade)
+
 

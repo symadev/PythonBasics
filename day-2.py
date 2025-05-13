@@ -22,6 +22,10 @@ print (ch)
 ch1 = str6[4]
 print (ch1)
 
+strTen = "my name is itu and i am an engineere"
+len2= len(strTen)
+print(len2)
+
 
 
 # this process is called slicing
