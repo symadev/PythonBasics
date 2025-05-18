@@ -73,3 +73,15 @@ for val in vegitables:
 list = [12,34,44,2,33,234,34]
 for val in list :
     print(val)
+
+
+tup = (12,34,44,2,33,234,34)
+for val in tup :
+
+    print(val)
+
+
+str= "syma sultana"
+
+for char in str:
+    print(char)
