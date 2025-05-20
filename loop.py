@@ -1,3 +1,5 @@
+from pickletools import string1
+
 count = 1
 while count<=5 :
     print("hello")
@@ -85,3 +87,35 @@ str= "syma sultana"
 
 for char in str:
     print(char)
+
+
+
+
+
+string1= " the world is ronded shape"
+
+for char in string1:
+    if(char == "o"):
+        print("o found")
+        break
+        # break means loop will be finished here
+
+    print(char)
+
+
+num =(12,33,4,56,7,75,57)
+for el in num:
+    print(el)
+
+
+num2 =(12,33,4,56,7,75,57, 33)
+x= 7
+idx = 0
+for el in num2:
+    if(el == 7):
+        print(" here found the index is ", idx)
+        break
+    idx += 1
+
+
+#range function
